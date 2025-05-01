@@ -35,17 +35,16 @@
 
 ###
 
-<p>
-  <a href="https://www.linkedin.com/in/andresfelipedev" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1.5em; font-weight: bold;">andresfelipedev</span>
-  </a><br>
-  <a href="https://x.com/httpsbadger" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="20" style="vertical-align: middle; margin-right: 8px;">
-    <span style="font-size: 1.5em; font-weight: bold;">@httpsbadger</span>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andresfelipedev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;" />
+    <strong style="font-size: 1.5em;">andresfelipedev</strong>
+  </a><br><br>
+  <a href="https://x.com/httpsbadger" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;" />
+    <strong style="font-size: 1.5em;">@httpsbadger</strong>
   </a>
 </p>
-
 
 ###
 
