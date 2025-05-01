@@ -35,14 +35,16 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/andresfelipedev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p>
+  📫 Connect with me:  
+  <a href="https://www.linkedin.com/in/andresfelipedev" target="_blank" style="margin-right: 10px; text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle;"> LinkedIn
   </a>
-  <a href="https://x.com/httpsbadger" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://x.com/httpsbadger" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="20" style="vertical-align: middle;"> Twitter
   </a>
-</div>
+</p>
+
 
 ###
 
