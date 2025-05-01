@@ -34,50 +34,14 @@
 <h2 align="left">📫 Reach me on</h2>
 
 ###
-<!-- Font Awesome CDN -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-<style>
-  .social-links {
-    font-family: sans-serif;
-    font-size: 16px;
-    margin-top: 1rem;
-  }
-
-  .social-links a {
-    display: inline-block;
-    margin-right: 15px;
-    text-decoration: none;
-    color: #333;
-    transition: color 0.3s ease, transform 0.3s ease;
-  }
-
-  .social-links a:hover {
-    color: #0072b1; /* LinkedIn blue as default */
-    transform: translateY(-2px);
-  }
-
-  .social-links a.twitter:hover {
-    color: #1DA1F2; /* Twitter/X blue */
-  }
-
-  .social-links i {
-    margin-right: 8px;
-  }
-</style>
-
-<div class="social-links">
-  📫 Connect with me:
-  <a href="https://www.linkedin.com/in/andresfelipedev" target="_blank">
-    <i class="fab fa-linkedin"></i>LinkedIn
+<p>
+  <a href="https://www.linkedin.com/in/andresfelipedev" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle;"> andresfelipedev
+  </a><br>
+  <a href="https://x.com/httpsbadger" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="20" style="vertical-align: middle;"> @httpsbadger
   </a>
-  <a href="https://x.com/httpsbadger" target="_blank" class="twitter">
-    <i class="fab fa-x-twitter"></i>Twitter
-  </a>
-</div>
-
-
-
+</p>
 ###
 
 <h3 align="left">Let's build something impactful, one commit at a time 🚀</h3>
