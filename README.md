@@ -1,29 +1,55 @@
-# Hi there, I'm @andresfelipedev 👋
+<h1 align="left"><h1>Hi there, I'm @andresfelipedev 👋</h1><br><br><p>🎯 Passionate about building clean, scalable MVPs using Python, JavaScript, and AI tools.</p></h1>
 
-🎯 Passionate about building clean, scalable MVPs using Python, JavaScript, and AI tools.
+###
 
-## 🌱 Currently Learning
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andresfelipedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresfelipedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- OpenAI API & Prompt Engineering  
-- Vector Databases (ChromaDB)  
-- Clean Code and Software Architecture (MVP, Layered)  
-- Deployment (Render, Docker, GitHub Actions)
+###
 
-## 🤝 Looking to Collaborate On
+<h4 align="left"><h3>🌱 Currently Learning</h3><br><ul><br>  <li>OpenAI API & Prompt Engineering</li><br>  <li>Vector Databases (ChromaDB)</li><br>  <li>Clean Code and Software Architecture (MVP, Layered)</li><br>  <li>Deployment (Render, Docker, GitHub Actions)</li><br></ul></h4>
 
-- AI-Powered Tools  
-- Chatbots & Automation  
-- Scalable Backend Systems  
+###
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andresfelipedev)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/andresfelipedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andresfelipedev" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h4 align="left"><h2>🤝 Looking to Collaborate On</h2><br><ul><br>  <li>AI-Powered Tools</li><br>  <li>Chatbots & Automation</li><br>  <li>Scalable Backend Systems</li><br></ul></h4>
 
+###
 
-Let's build something impactful, one commit at a time 🚀
+<h2 align="left">📫 Reach me on</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/andresfelipedev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/httpsbadger" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Let's build something impactful, one commit at a time 🚀</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/andresfelipedev/andresfelipedev/output/snake.svg" alt="Snake animation" />
+
+###
