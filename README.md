@@ -49,7 +49,3 @@
 <h3 align="left">Let's build something impactful, one commit at a time 🚀</h3>
 
 ###
-
-<img src="https://raw.githubusercontent.com/andresfelipedev/andresfelipedev/output/snake.svg" alt="Snake animation" />
-
-###
