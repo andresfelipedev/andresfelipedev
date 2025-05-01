@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm @andresfelipedev 👋
 
-<!--
-**andresfelipedev/andresfelipedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about building clean, scalable MVPs using Python, JavaScript, and AI tools.
 
-Here are some ideas to get you started:
+## 🛠️ Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔁 **twitter-bot-mvp**  
+  Automates tweet generation using the OpenAI API. Built with a clean MVP architecture, Dockerized, and deployed on Render.
+
+- 🤖 **telegram-rag-bot-mvp-1**  
+  Retrieval-Augmented Generation chatbot integrating ChromaDB, OpenAI, and Telegram. Delivers precise answers using vector-based search.
+
+## 🌱 Currently Learning
+
+- OpenAI API & Prompt Engineering  
+- Vector Databases (ChromaDB)  
+- Clean Code and Software Architecture (MVP, Layered)  
+- Deployment (Render, Docker, GitHub Actions)
+
+## 🤝 Looking to Collaborate On
+
+- AI-Powered Tools  
+- Chatbots & Automation  
+- Scalable Backend Systems  
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andresfelipedev)
+
+---
+
+Let's build something impactful, one commit at a time 🚀
